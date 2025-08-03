@@ -98,52 +98,6 @@ docker run -p 3000:3000 f1fanapp
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏎️ Drivers Page
-*Browse all 20 F1 drivers with official photos and team information*
-
-![Drivers Page](https://via.placeholder.com/800x500/15151e/ffffff?text=Drivers+Page+Screenshot)
-
-### 🗳️ Voting Interface
-*Interactive voting system with modern glass effects*
-
-![Voting Page](https://via.placeholder.com/800x500/15151e/ffffff?text=Voting+Page+Screenshot)
-
-### 📊 Live Results
-*Real-time vote tallies with animated charts and podium effects*
-
-![Results Page](https://via.placeholder.com/800x500/15151e/ffffff?text=Results+Page+Screenshot)
-
-</div>
-
----
-
-## 🏁 2025 F1 Season Lineup
-
-<div align="center">
-
-| Team | Driver 1 | Driver 2 | Status |
-|------|----------|----------|---------|
-| 🔴 **Red Bull Racing** | Max Verstappen (#1) | Sergio Pérez (#11) | - |
-| 🔴 **Ferrari** | **Lewis Hamilton (#44)** | Charles Leclerc (#16) | ⭐ Team Change |
-| 🩶 **Mercedes** | George Russell (#63) | **Kimi Antonelli (#12)** | 🆕 Rookie |
-| 🧡 **McLaren** | Lando Norris (#4) | Oscar Piastri (#81) | - |
-| 💚 **Aston Martin** | Fernando Alonso (#14) | Lance Stroll (#18) | - |
-| 💙 **Alpine** | Pierre Gasly (#10) | **Jack Doohan (#7)** | 🆕 Rookie |
-| 💚 **Kick Sauber** | Nico Hülkenberg (#27) | **Gabriel Bortoleto (#5)** | 🆕 Rookie |
-| 💙 **RB** | Yuki Tsunoda (#22) | **Isack Hadjar (#6)** | 🆕 Rookie |
-| 💙 **Williams** | Alexander Albon (#23) | **Carlos Sainz (#55)** | ⭐ Team Change |
-| 🤍 **Haas** | **Esteban Ocon (#31)** | **Oliver Bearman (#87)** | ⭐🆕 New Lineup |
-
-*⭐ = Team change for 2025 | 🆕 = Rookie driver*
-
-</div>
-
----
-
 ## 🛠️ Technology Stack
 
 <div align="center">
