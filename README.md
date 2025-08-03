@@ -38,21 +38,6 @@
 - Responsive design for all devices
 
 </td>
-<td width="50%">
-
-### 💎 **Liquid Glass Effects**
-- iOS-inspired frosted glass elements
-- Backdrop blur filters
-- Translucent panels with depth
-- Modern visual hierarchy
-
-### 🗳️ **Interactive Voting System**
-- Vote for next GP winner
-- One vote per user (cookie-based)
-- Real-time results with animations
-- Live vote tallies and percentages
-
-</td>
 </tr>
 </table>
 
